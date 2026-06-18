@@ -38,3 +38,7 @@ streamlit run chatbot.py
 * RAG integration
 * PDF document chat
 * Multi-model support
+
+## DEMO
+
+![Chatbot Demo](chatbot_demo.png)
